@@ -1,0 +1,17 @@
+{
+  "name": "telegram-metrica-bot-nodejs",
+  "version": "1.0.0",
+  "description": "Бот для показа Яндекс Метрики проекта старое-ЭДО",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "0.19.2",
+    "node-telegram-bot-api": "0.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "ms.JetBlackHeart",
+  "license": "ISC"
+}
